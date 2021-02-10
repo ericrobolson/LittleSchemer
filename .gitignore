@@ -7,3 +7,5 @@
 .#*.scm
 
 *.bak
+compiled/drracket/errortrace/library_rkt.dep
+compiled/drracket/errortrace/library_rkt.zo
